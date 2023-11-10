@@ -19,7 +19,7 @@ Django FileHub is a powerful file and folder management web application that all
   - **Public Share:** Make selected files publicly accessible.
   - **Email Share Link:** Share files conveniently by sending share links via email.
 
-### Why Django FileHub?
+### Why CloudFileHub API?
 
 - **Intuitive Interface:** The user-friendly design ensures a seamless and intuitive file management experience.
 
