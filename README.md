@@ -67,4 +67,4 @@ Follow these steps to run the Django FileHub API locally:
    ```
 
 8. **Access The API:**
-   Open your web browser and go to (http://127.0.0.1:8000/)[http://127.0.0.1:8000/] to interact with the Django FileHub API
+   Open your web browser and go to http://127.0.0.1:8000/ to interact with the Django FileHub API
